@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-01-15 14:00:40 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2018-01-15 19:15:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-15 19:16:41 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:17:03 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:19:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-15 19:19:45 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:19:48 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:20:08 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:20:09 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:20:36 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:20:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:21:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:22:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-15 19:23:00 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:23:03 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:26:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-15 19:26:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-15 19:28:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:28:24 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:28:48 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:29:10 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:29:26 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:29:42 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:30:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:30:14 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:30:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 19:30:32 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-15 23:55:29 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2018-01-15 23:55:29 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-15 23:55:30 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-15 23:55:31 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-15 23:55:31 --> 404 Page Not Found: Scripts/setup.php

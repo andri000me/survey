@@ -1,0 +1,12 @@
+[29-Aug-2019 14:42:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cek' (T_VARIABLE) in /home/tokoig/public_html/application/controllers/Profil.php on line 240
+[29-Aug-2019 19:23:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Tbio::token_user() in /home/tokoig/public_html/application/controllers/Profil.php on line 241
+[29-Aug-2019 22:26:16 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Profil::ajax_ig() in /home/tokoig/public_html/application/controllers/Profil.php on line 276
+[29-Aug-2019 22:27:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'GET' (T_STRING), expecting function (T_FUNCTION) in /home/tokoig/public_html/application/libraries/Tbio.php on line 6
+[29-Aug-2019 23:22:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/tokoig/public_html/application/controllers/Profil.php on line 237
+[30-Aug-2019 12:05:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/tokoig/public_html/application/libraries/Tbio.php on line 34
+[30-Aug-2019 19:24:54 UTC] PHP Notice:  Undefined index: log_path in /home/tokoig/public_html/system/core/Log.php on line 118
+[30-Aug-2019 19:24:54 UTC] PHP Notice:  Undefined index: log_path in /home/tokoig/public_html/system/core/Log.php on line 118
+[30-Aug-2019 19:24:54 UTC] PHP Warning:  mkdir(): Invalid path in /home/tokoig/public_html/system/core/Log.php on line 122
+[30-Aug-2019 19:24:54 UTC] PHP Notice:  Undefined index: log_threshold in /home/tokoig/public_html/system/core/Log.php on line 129
+[30-Aug-2019 19:24:54 UTC] PHP Notice:  Undefined index: log_threshold in /home/tokoig/public_html/system/core/Log.php on line 133
+[20-Mar-2020 11:20:04 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/miladiyyah/public_html/ingenico/application//libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/miladiyyah/public_html/ingenico/application/core/BD_Controller.php on line 5

@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-30 08:57:14 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 08:59:48 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:03:27 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:09:07 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:09:42 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:10:00 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:17:42 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:17:44 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:17:49 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:17:53 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:17:58 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:18:06 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:18:21 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 09:18:25 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:11:53 --> Query error: Column 'ntb' cannot be null - Invalid query: INSERT INTO `bayar` (`id_spt`, `bank_id`, `jumlah`, `ntb`, `ntpn`) VALUES ('6', '2', '2800000', NULL, NULL)
+ERROR - 2020-01-30 10:15:15 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:15:20 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:15:28 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:21:07 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:38:00 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:38:05 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:38:35 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:39:18 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:39:24 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:39:27 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:39:30 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:40:20 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:40:23 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 10:55:36 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 11:26:25 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 11:26:29 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 12:16:29 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 12:27:24 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 12:35:01 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 13:22:21 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 13:22:27 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 13:22:30 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 13:28:12 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 14:22:49 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 14:29:14 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 14:29:18 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 14:30:49 --> 404 Page Not Found: Yudigopelspng/index
+ERROR - 2020-01-30 14:31:05 --> 404 Page Not Found: Provinsi/index

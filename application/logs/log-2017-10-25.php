@@ -1,0 +1,199 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-10-25 13:36:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:36:49 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:12 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:15 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:26 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:36 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:49 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:37:58 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:38:03 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:38:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:38:28 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:38:36 --> Severity: Notice --> Undefined variable: arr /var/www/hamil/application/controllers/Ibu.php 169
+ERROR - 2017-10-25 13:38:36 --> Severity: Notice --> Undefined variable: arr /var/www/hamil/application/controllers/Ibu.php 169
+ERROR - 2017-10-25 13:38:45 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:38:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:08 --> Severity: Notice --> Undefined variable: arr /var/www/hamil/application/controllers/Anak.php 179
+ERROR - 2017-10-25 13:39:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:20 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:32 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:38 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:51 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:39:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:06 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:09 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:25 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:27 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:40:30 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:41:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 07:41:05 --> Severity: Warning --> opendir(/var/www/hamil/application/third_party/MPDF57/tmp): failed to open dir: No such file or directory /var/www/hamil/application/third_party/MPDF57/mpdf.php 7502
+ERROR - 2017-10-25 13:41:31 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:41:38 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:41:50 --> Severity: Notice --> Undefined variable: ts /var/www/hamil/application/views/client/modal/anak/add_imun.php 38
+ERROR - 2017-10-25 13:41:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/hamil/application/views/client/modal/anak/add_imun.php 38
+ERROR - 2017-10-25 13:41:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:04 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:06 --> Severity: Notice --> Undefined variable: vaks /var/www/hamil/application/views/client/modal/anak/add_imunl.php 24
+ERROR - 2017-10-25 13:42:06 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/hamil/application/views/client/modal/anak/add_imunl.php 24
+ERROR - 2017-10-25 13:42:06 --> Severity: Notice --> Undefined variable: ts /var/www/hamil/application/views/client/modal/anak/add_imunl.php 40
+ERROR - 2017-10-25 13:42:06 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/hamil/application/views/client/modal/anak/add_imunl.php 40
+ERROR - 2017-10-25 13:42:06 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:09 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:12 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:14 --> Severity: Notice --> Undefined variable: ts /var/www/hamil/application/views/client/modal/anak/add_sdit.php 78
+ERROR - 2017-10-25 13:42:14 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/hamil/application/views/client/modal/anak/add_sdit.php 78
+ERROR - 2017-10-25 13:42:14 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:20 --> Severity: Notice --> Undefined variable: ts /var/www/hamil/application/views/client/modal/anak/add_sdit.php 78
+ERROR - 2017-10-25 13:42:20 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/hamil/application/views/client/modal/anak/add_sdit.php 78
+ERROR - 2017-10-25 13:42:20 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:27 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:35 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:42:51 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:43:36 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 07:43:39 --> Severity: Warning --> opendir(/var/www/hamil/application/third_party/MPDF57/tmp): failed to open dir: No such file or directory /var/www/hamil/application/third_party/MPDF57/mpdf.php 7502
+ERROR - 2017-10-25 13:43:47 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:44:09 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:44:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:45:13 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:45:25 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:45:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:46:13 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:46:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:46:24 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:47:00 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:47:20 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:47:27 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:47:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:47:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:06 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:10 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:28 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:48:57 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:49:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:50:00 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:50:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:51:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:51:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:53:33 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:53:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 13:53:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:42:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:42:44 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:42:49 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:10 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:12 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:13 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:17 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:47 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:47 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:45:56 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:46:14 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:46:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:46:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:46:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:46:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:49:11 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:13 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:17 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:23 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:25 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:25 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:29 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:51:29 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:52:05 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:52:05 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:52:07 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:52:07 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:53:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:54:12 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:54:12 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:54:38 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:55:45 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:55:51 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:55:51 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:15 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:35 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:39 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:39 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:43 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:46 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:57:47 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:59:24 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 19:59:30 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:02 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:53 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:57 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:00:57 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:01 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:04 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:04 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:07 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:08 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:11 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:01:11 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:03:07 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:03:18 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:04:25 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:04:40 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:04:41 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:22 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:26 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:27 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:31 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:32 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:37 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:05:38 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:48 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:52 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:52 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:55 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:58 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:06:58 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:01 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:01 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:03 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:03 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:06 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:08 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:09 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:13 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:16 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:24 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:29 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:30 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:32 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:32 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:34 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:34 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:07:38 --> Severity: Warning --> Missing argument 2 for Cakes::v_isi() /var/www/hamil/application/controllers/Cakes.php 522
+ERROR - 2017-10-25 20:07:38 --> Severity: Notice --> Undefined variable: hpht /var/www/hamil/application/controllers/Cakes.php 533
+ERROR - 2017-10-25 20:07:38 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:08:00 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:09:36 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:09:37 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2017-10-25 20:09:59 --> 404 Page Not Found: Assets/AdminLTE-2.0.5

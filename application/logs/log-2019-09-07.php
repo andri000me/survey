@@ -1,0 +1,23 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 38
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 38
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 39
+ERROR - 2019-09-07 08:50:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/helpers/url_helper.php 564
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 39
+ERROR - 2019-09-07 08:50:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/helpers/url_helper.php 564
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 38
+ERROR - 2019-09-07 08:50:46 --> Severity: Notice --> Trying to get property of non-object /home/tokoig/public_html/application/controllers/Toko.php 39
+ERROR - 2019-09-07 08:50:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/helpers/url_helper.php 564
+ERROR - 2019-09-07 10:46:18 --> Query error: Field 'norek' doesn't have a default value - Invalid query: INSERT INTO `data_member` (`unik`, `nama_toko`, `nohp`, `username`, `password`, `akun_ig`, `status`, `email`, `alurl`) VALUES ('MPAY0709196', 'Toko Coba', '082139740518', 'tokocoba', '66fc54051ce011068b440607f79eef1b6da252b679a506f420bb73d78bbd168a08a04fe7d18e2fbe1bb8cc741f1003ef4ca881c5816d7c9b4b8e7b5232a43aad2XyH6dc0oUhidAoqwNK8+Vt8Ar/iyGE9Kw/QJ9IfS3M=', 'cobatokobio1', 0, 'cobatoko132@gmail.com', 'cobabio')
+ERROR - 2019-09-07 10:56:27 --> Query error: Field 'norek' doesn't have a default value - Invalid query: INSERT INTO `data_member` (`unik`, `nama_toko`, `nohp`, `username`, `password`, `akun_ig`, `status`, `email`, `alurl`) VALUES ('MPAY0709196', 'Toko Coba', '082139740518', 'tokocoba', 'c7bafc8adb8f6e8249d4a3b43a96718e083db4b1d923d0873e42a18e7bb23e61290fd7254460fda61d3e77b692a6faca4e36536a803fc528797b8a6d7d786302SX7pnFuMtMgJ5SZzeWkvpBnVMPYvK7rJuDPJ0yOcC8c=', 'cobatokobio1', 0, 'cobatoko132@gmail.com', 'cobabio')
+ERROR - 2019-09-07 10:57:00 --> Query error: Field 'norek' doesn't have a default value - Invalid query: INSERT INTO `data_member` (`unik`, `nama_toko`, `nohp`, `username`, `password`, `akun_ig`, `status`, `email`, `alurl`) VALUES ('MPAY0709196', 'Toko Coba', '082139740518', 'tokocoba', '8602697c18ab903f7406cbab4c4b556e413038d28c2f072a5c2f19decea3f479ba10682b057f699319b32aa7f07d253474b1562536c4e95ec2d30b618edb8dcagFPBm56o+wALYyiC1RdrRlulcLxXSuNOvKkyxKnI4II=', 'cobatokobio1', 0, 'cobatoko132@gmail.com', 'cobabio')
+ERROR - 2019-09-07 11:01:16 --> Query error: Field 'total' doesn't have a default value - Invalid query: INSERT INTO `member_paket` (`id_paket`, `id_member`, `tgl_akhir`, `tgl_invo`, `id_kupon`, `stat_paket`, `inv`) VALUES ('1', '6', '2019-10-07', '2019-09-07', '1', 1, 'INV0709199')
+ERROR - 2019-09-07 11:02:47 --> Query error: Field 'total' doesn't have a default value - Invalid query: INSERT INTO `member_paket` (`id_paket`, `id_member`, `tgl_akhir`, `tgl_invo`, `id_kupon`, `stat_paket`, `inv`) VALUES ('1', '6', '2019-10-07', '2019-09-07', '1', 1, 'INV0709199')
+ERROR - 2019-09-07 11:43:24 --> Severity: Notice --> Undefined index: data /home/tokoig/public_html/application/controllers/Daftar.php 23
+ERROR - 2019-09-07 11:43:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/tokoig/public_html/application/views/daftar.php 200
+ERROR - 2019-09-07 11:46:04 --> Severity: Notice --> Undefined index: data /home/tokoig/public_html/application/controllers/Daftar.php 23
+ERROR - 2019-09-07 11:46:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/tokoig/public_html/application/views/daftar.php 200
+ERROR - 2019-09-07 11:59:57 --> 404 Page Not Found: Beli/ace_master
+ERROR - 2019-09-07 12:00:44 --> 404 Page Not Found: Beli/ace_master
+ERROR - 2019-09-07 12:01:36 --> 404 Page Not Found: Beli/ace_master

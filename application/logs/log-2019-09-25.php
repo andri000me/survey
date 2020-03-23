@@ -1,0 +1,12 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-25 04:57:32 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; CI_Session has a deprecated constructor /home/tokoig/public_html/system/libraries/Session.php 27
+ERROR - 2019-09-25 04:57:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/core/Common.php 569
+ERROR - 2019-09-25 18:14:28 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; CI_Session has a deprecated constructor /home/tokoig/public_html/system/libraries/Session.php 27
+ERROR - 2019-09-25 18:14:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/core/Common.php 569
+ERROR - 2019-09-25 18:14:33 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; CI_Session has a deprecated constructor /home/tokoig/public_html/system/libraries/Session.php 27
+ERROR - 2019-09-25 18:14:33 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/core/Common.php 569
+ERROR - 2019-09-25 18:15:01 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; CI_Session has a deprecated constructor /home/tokoig/public_html/system/libraries/Session.php 27
+ERROR - 2019-09-25 18:15:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/core/Common.php 569
+ERROR - 2019-09-25 18:15:01 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; CI_Session has a deprecated constructor /home/tokoig/public_html/system/libraries/Session.php 27
+ERROR - 2019-09-25 18:15:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/tokoig/public_html/system/core/Exceptions.php:272) /home/tokoig/public_html/system/core/Common.php 569

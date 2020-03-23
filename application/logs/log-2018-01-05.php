@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-01-05 06:05:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2018-01-05 06:05:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2018-01-05 07:00:49 --> 404 Page Not Found: PhpMyAdmin/scripts
+ERROR - 2018-01-05 07:00:50 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-05 07:00:50 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2018-01-05 07:00:51 --> 404 Page Not Found: MyAdmin/scripts
+ERROR - 2018-01-05 12:03:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 14:08:13 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2018-01-05 14:08:13 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-05 14:08:15 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-05 14:08:15 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-05 14:08:16 --> 404 Page Not Found: Scripts/setup.php
+ERROR - 2018-01-05 20:17:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 20:30:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 20:31:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 20:45:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 23:55:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 23:55:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-05 23:55:50 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:51 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:52 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:54 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:55 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:55 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:59 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:59 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
+ERROR - 2018-01-05 23:55:59 --> 404 Page Not Found: Assets/AdminLTE-2.0.5
